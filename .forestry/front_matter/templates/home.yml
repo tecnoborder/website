@@ -26,5 +26,4 @@ fields:
   name: socialImage
   label: socialImage
 pages:
-- src/home-copy.md
 - src/index.md
