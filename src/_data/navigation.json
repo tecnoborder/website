@@ -6,14 +6,19 @@
       "external": false
     },
     {
+      "text": "All Posts",
+      "url": "",
+      "external": ""
+    },
+    {
+      "text": "About",
+      "url": "/contact",
+      "external": false
+    },
+    {
       "text": "Twitter",
       "url": "https://twitter.com/adryhealth",
       "external": true
-    },
-    {
-      "text": "Contact me",
-      "url": "/contact",
-      "external": false
     }
   ]
 }
