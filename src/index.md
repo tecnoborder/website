@@ -8,7 +8,10 @@ metaDesc: Hylia is a lightweight Eleventy starter kit to help you to create your
 socialImage: ''
 toppicks: []
 top_picks: articles
-boibo: 7
+boibo: '7'
+date: 2020-12-05
+tags: []
+image: ''
 
 ---
 Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Forestry
