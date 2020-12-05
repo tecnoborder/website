@@ -1,11 +1,12 @@
 ---
 layout: home
-title: Health Tech Innovation
+title: Home
 postsHeading: Latest posts
 archiveButtonText: See all posts
 metaDesc: Hylia is a lightweight Eleventy starter kit to help you to create your own
   blog or personal website.
 socialImage: ''
+toppicks: []
 
 ---
 Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Forestry
