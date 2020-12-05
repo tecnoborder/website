@@ -6,9 +6,9 @@ webhook_url:
 sections:
 - type: directory
   path: ''
-  label: see
+  label: Root
   create: all
-  match: "*"
+  match: "*/*"
 - type: heading
   label: Content
 - type: directory
