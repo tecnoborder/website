@@ -11,6 +11,13 @@ fields:
 - type: text
   name: postsHeading
   label: postsHeading
+- name: toppicks
+  type: blocks
+  template_types: []
+  config:
+    min: 
+    max: 
+  label: TopPicks
 - type: text
   name: archiveButtonText
   label: archiveButtonText
