@@ -8,9 +8,6 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: postsHeading
-  label: postsHeading
 - name: top_picks
   type: text
   config:
