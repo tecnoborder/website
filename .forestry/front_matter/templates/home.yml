@@ -11,6 +11,11 @@ fields:
 - type: text
   name: postsHeading
   label: postsHeading
+- name: top_picks
+  type: text
+  config:
+    required: false
+  label: top picks
 - type: text
   name: archiveButtonText
   label: archiveButtonText
