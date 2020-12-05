@@ -1,26 +1,6 @@
 ---
 label: Home
 hide_body: false
-fields:
-- type: text
-  name: layout
-  label: layout
-- type: text
-  name: title
-  label: title
-- name: top_picks
-  type: text
-  config:
-    required: false
-  label: top picks
-- type: text
-  name: archiveButtonText
-  label: archiveButtonText
-- type: text
-  name: metaDesc
-  label: metaDesc
-- type: text
-  name: socialImage
-  label: socialImage
+fields: []
 pages:
 - src/index.md
