@@ -1,14 +1,4 @@
 ---
 label: Home
 hide_body: false
-fields:
-- name: boibo
-  type: number
-  label: boibo
-  description: ''
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
+fields: []
