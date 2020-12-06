@@ -11,7 +11,7 @@ top_picks: articles
 boibo: '7'
 date: 2020-12-05
 tags: []
-image: ''
+image: "/images/demo-image-1.jpg"
 
 ---
 Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Forestry
